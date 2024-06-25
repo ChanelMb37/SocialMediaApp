@@ -9,6 +9,6 @@ import { SocialMediaRoutingModule } from './social-media-routing.module';
   imports: [
     CommonModule,
     SocialMediaRoutingModule
-  ]
+  ],
 })
 export class SocialMediaModule { }
