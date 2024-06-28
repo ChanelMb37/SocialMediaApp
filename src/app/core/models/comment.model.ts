@@ -1,4 +1,4 @@
-export class Comment {
+export class comment {
   id!: number;
   userId!: number;
   comment!: string;
